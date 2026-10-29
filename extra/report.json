@@ -1,0 +1,10 @@
+{
+    "department": "IT",
+    "employee_count": 3,
+    "average_salary": 68333.33,
+    "highest_paid": {
+        "name": "Charlie",
+        "salary": 75000
+    },
+    "python_employees": 3
+}

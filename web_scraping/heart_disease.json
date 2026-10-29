@@ -1,0 +1,92 @@
+[
+    {
+        "Variable Name": "age",
+        "Role": "Feature",
+        "Type": "Integer",
+        "Demographic": "Age",
+        "Description": "",
+        "Units": "years",
+        "Missing Values": "no"
+    },
+    {
+        "Variable Name": "sex",
+        "Role": "Feature",
+        "Type": "Categorical",
+        "Demographic": "Sex",
+        "Description": "",
+        "Units": "",
+        "Missing Values": "no"
+    },
+    {
+        "Variable Name": "cp",
+        "Role": "Feature",
+        "Type": "Categorical",
+        "Demographic": "",
+        "Description": "",
+        "Units": "",
+        "Missing Values": "no"
+    },
+    {
+        "Variable Name": "trestbps",
+        "Role": "Feature",
+        "Type": "Integer",
+        "Demographic": "",
+        "Description": "resting blood pressure (on admission to the hospital)",
+        "Units": "mm Hg",
+        "Missing Values": "no"
+    },
+    {
+        "Variable Name": "chol",
+        "Role": "Feature",
+        "Type": "Integer",
+        "Demographic": "",
+        "Description": "serum cholestoral",
+        "Units": "mg/dl",
+        "Missing Values": "no"
+    },
+    {
+        "Variable Name": "fbs",
+        "Role": "Feature",
+        "Type": "Categorical",
+        "Demographic": "",
+        "Description": "fasting blood sugar > 120 mg/dl",
+        "Units": "",
+        "Missing Values": "no"
+    },
+    {
+        "Variable Name": "restecg",
+        "Role": "Feature",
+        "Type": "Categorical",
+        "Demographic": "",
+        "Description": "",
+        "Units": "",
+        "Missing Values": "no"
+    },
+    {
+        "Variable Name": "thalach",
+        "Role": "Feature",
+        "Type": "Integer",
+        "Demographic": "",
+        "Description": "maximum heart rate achieved",
+        "Units": "",
+        "Missing Values": "no"
+    },
+    {
+        "Variable Name": "exang",
+        "Role": "Feature",
+        "Type": "Categorical",
+        "Demographic": "",
+        "Description": "exercise induced angina",
+        "Units": "",
+        "Missing Values": "no"
+    },
+    {
+        "Variable Name": "oldpeak",
+        "Role": "Feature",
+        "Type": "Integer",
+        "Demographic": "",
+        "Description": "ST depression induced by exercise relative to rest",
+        "Units": "",
+        "Missing Values": "no"
+    }
+]

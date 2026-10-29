@@ -1,0 +1,5 @@
+names = ["Saif", "Ali", "John"]
+scores = [85, 92, 78]
+
+for name,score in zip(names,scores):
+    print(f"{name} scored {score}")

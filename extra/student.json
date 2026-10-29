@@ -1,0 +1,28 @@
+{
+    "students": [
+        {
+            "name": "Alice",
+            "age": 22,
+            "scores": {
+                "math": 85,
+                "python": 92
+            }
+        },
+        {
+            "name": "Bob",
+            "age": 21,
+            "scores": {
+                "math": 78,
+                "python": 88
+            }
+        },
+        {
+            "name": "Charlie",
+            "age": 23,
+            "scores": {
+                "math": 95,
+                "python": 91
+            }
+        }
+    ]
+}

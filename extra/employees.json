@@ -1,0 +1,28 @@
+{
+    "employees": [
+        {
+            "id": 101,
+            "name": "Alice",
+            "department": "IT",
+            "skills": ["Python", "SQL", "Git"]
+        },
+        {
+            "id": 102,
+            "name": "Bob",
+            "department": "HR",
+            "skills": ["Excel", "Communication"]
+        },
+        {
+            "id": 103,
+            "name": "Charlie",
+            "department": "IT",
+            "skills": ["Python", "Docker", "Linux"]
+        },
+        {
+            "id": 104,
+            "name": "David",
+            "department": "Finance",
+            "skills": ["Excel", "SQL"]
+        }
+    ]
+}

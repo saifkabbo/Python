@@ -1,0 +1,11 @@
+{
+    "id": 103,
+    "name": "Charlie",
+    "department": "IT",
+    "skills": [
+        "Python",
+        "Docker",
+        "Linux"
+    ],
+    "salary": 75000
+}
