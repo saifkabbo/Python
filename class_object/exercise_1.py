@@ -1,9 +1,9 @@
-# # class Person:
-# #     def __init__(self,name,age):
-# #         self.name=name
-# #         self.age=age
-# #     def __str__(self):
-# #         return f"Hi! I'm {self.name}. I'm {self.age} years old."
+# class Person:
+#     def __init__(self,name,age):
+#         self.name=name
+#         self.age=age
+#     def __str__(self):
+#         return f"Hi! I'm {self.name}. I'm {self.age} years old."
 
 # # person_1=Person("Saif",22)
 # # person_2=Person("Kabbow",23)
