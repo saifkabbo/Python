@@ -1,11 +1,11 @@
-# # user=input("Enter your age: ")
-# # user=int(user)
-# # if user>=18:
-# #     print("You are old enough to drive.")
-# # elif user<18:
-# #     print(f"You need {18-user} more years to learn to drive.")
-# # else:
-# #     print("Invalid!")
+# user=input("Enter your age: ")
+# user=int(user)
+# if user>=18:
+#     print("You are old enough to drive.")
+# elif user<18:
+#     print(f"You need {18-user} more years to learn to drive.")
+# else:
+#     print("Invalid!")
 
 # your_age=input("Enter your age: ")
 # my_age=int(22)
